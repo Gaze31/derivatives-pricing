@@ -26,8 +26,7 @@ A Python library implementing core derivatives pricing models from scratch — c
 Shows the characteristic convex decay of call option value as strike price increases, with time value embedded at each point.
 
 ### Option Calibration
-![Option Calibration](/Users/sumedhahundekar/python/quant_eng/exercise2_option_calibration.png)
----
+![Option Calibration](//Users/sumedhahundekar/python/quant_eng/exercise2_option_calibration.png)
 
 ## Key Concepts Covered
 
